@@ -4,3 +4,5 @@
 [Exercicio 1](https://github.com/miltonnotforyou/logica-controle-de-fluxos-java.git-/blob/master/src/Exercico1.java)
 
 [Exercicio 2](https://github.com/miltonnotforyou/logica-controle-de-fluxos-java.git-/blob/master/src/Exercicio2.java)
+
+[Exercicio 3](https://github.com/miltonnotforyou/logica-controle-de-fluxos-java.git-/blob/master/src/Exercicio3.java)
