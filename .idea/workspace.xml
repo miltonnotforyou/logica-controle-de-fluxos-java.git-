@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="189aec6a-ee68-4b37-82d4-34205996d342" name="Changes" comment="Exercicio 2">
-      <change beforePath="$PROJECT_DIR$/src/Exercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercicio2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercicio3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +35,16 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Exercicio2">
+  <component name="RunManager" selected="Application.Exercicio3">
     <configuration name="Exercicio2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercicio2" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercicio3" />
       <module name="untitled" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -56,8 +64,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="teste" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercicio3" />
+        <item itemvalue="Application.teste" />
         <item itemvalue="Application.Exercicio2" />
         <item itemvalue="Application.Exercico1" />
         <item itemvalue="Application.Main" />
@@ -101,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667507528001</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Exercicio 2">
+      <created>1667507892379</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667507892379</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -119,5 +143,16 @@
     <MESSAGE value="Exercicio 1" />
     <MESSAGE value="Exercicio 2" />
     <option name="LAST_COMMIT_MESSAGE" value="Exercicio 2" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercicio3.java</url>
+          <line>194</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
