@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="189aec6a-ee68-4b37-82d4-34205996d342" name="Changes" comment="Exercicio 2">
-      <change afterPath="$PROJECT_DIR$/src/Exercicio3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="189aec6a-ee68-4b37-82d4-34205996d342" name="Changes" comment="Exercicio 3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -125,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667507892379</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Exercicio 3">
+      <created>1667514088465</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667514088465</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,7 +146,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Exercicio 1" />
     <MESSAGE value="Exercicio 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 2" />
+    <MESSAGE value="Exercicio 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exercicio 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -151,6 +156,25 @@
           <url>file://$PROJECT_DIR$/src/Exercicio3.java</url>
           <line>194</line>
           <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercicio3.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Exercicio3.java</url>
+          <line>138</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Exercicio3.java</url>
+          <line>136</line>
+          <properties class="Exercicio3" method="ifFerias">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
